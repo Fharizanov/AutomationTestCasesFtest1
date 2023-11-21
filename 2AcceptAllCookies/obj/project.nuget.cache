@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1vcQtbkP+Ga0JEWrN8wft0Hn7KeZHe8tfOthq6uStY/8O63m4tTC+arICd9b1Cmmbho5NVVoIP3l7tTVjTgKcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Filip.Harizanov\\source\\repos\\FilipTest1\\2AcceptAllCookies\\2AcceptAllCookies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Filip.Harizanov\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Filip.Harizanov\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512",
+    "C:\\Users\\Filip.Harizanov\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Filip.Harizanov\\.nuget\\packages\\selenium.webdriver\\4.15.0\\selenium.webdriver.4.15.0.nupkg.sha512",
+    "C:\\Users\\Filip.Harizanov\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
